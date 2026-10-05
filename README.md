@@ -7,7 +7,7 @@ This is a sample of a good READ.me file that can be used to describe a project.
 
 ## Description
 
-Practice using Github by creating a repository. This is for an assignment in class. This project analyzes the performance of #71 on the Iowa Hawkeye football team. 
+Practice using Github by creating a repository. **This is for an assignment in class**. This project analyzes the performance of #71 on the Iowa Hawkeye football team. 
 
 ## Tools Used 
 
