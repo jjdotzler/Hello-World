@@ -1,22 +1,22 @@
 # My first repository.
 This is a sample of a good READ.me file that can be used to describe a project. 
 
-# Project Title 
+## Project Title 
 
 *Hello World*
 
-# Description
+## Description
 
 Practice using Github by creating a repository. This is for an assignment in class.
 
-# Tools Used 
+## Tools Used 
 
 Programming tools used. 
 
-# Files Used
+## Files Used
 
 List of file names used in project.
 
-# How to Run Program 
+## How to Run Program 
 
-# Additional Information 
+## Additional Information 
